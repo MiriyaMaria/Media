@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Pacifico Regular';
+    src: url(Fonts/Pacifico-Regular.ttf);
+}
+
+body {
+    text-align: center;
+    font-family: 'Pacifico Regular',serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.wraper {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.block {
+    display: inline-block;
+    padding: 20px;
+    margin: 0 20px;    
+}
+
+img {
+    border-radius: 10px; 
+   }
+
+video {
+    max-width: 50%;
+    height: auto;
+}
